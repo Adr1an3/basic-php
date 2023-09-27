@@ -30,5 +30,7 @@ $user_rating = 7.7;
 <p>User Rating: <?php echo $user_rating ?></p>
 
 <button class="btn btn-outline-warning mb-3">Button</button>
+<button class="btn btn-outline-success mb-3">Button</button>
+<button class="btn btn-outline-light mb-3">Button</button>
 
 <?php require 'includes/footer.php' ?>
