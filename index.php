@@ -32,5 +32,6 @@ $user_rating = 7.7;
 <button class="btn btn-outline-warning mb-3">Button</button>
 <button class="btn btn-outline-success mb-3">Button</button>
 <button class="btn btn-outline-light mb-3">Button</button>
+<a href="https://www.heroku.com" class="btn btn-danger" target="_blank">Heroku.com</a>
 
 <?php require 'includes/footer.php' ?>
